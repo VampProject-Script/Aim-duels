@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://botthepan.onrender.com/script/25cffcdfc05f435b"))()
+loadstring(game:HttpGet("https://botthepan.onrender.com/script/64673853bd0f09d7"))()
